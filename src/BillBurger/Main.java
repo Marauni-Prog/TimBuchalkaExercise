@@ -20,6 +20,6 @@ public class Main {
 		System.out.println(meal);
 		System.out.println();
 		MealOrder meal1=new MealOrder("C","A");
-		System.out.println(meal1);
+//		System.out.println(meal1);
 	}
 }
